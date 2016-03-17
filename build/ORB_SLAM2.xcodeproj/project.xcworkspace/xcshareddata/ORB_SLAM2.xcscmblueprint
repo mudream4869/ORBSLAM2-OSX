@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60EA205DE257D9D2F4169206A1AD45EA2DDD41AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C2A62821C68BC3F8EA42E3F17DCE0992151FBB6" : 0,
+    "60EA205DE257D9D2F4169206A1AD45EA2DDD41AC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E9748D1-0EF3-495C-BEBD-F77146E195FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C2A62821C68BC3F8EA42E3F17DCE0992151FBB6" : "",
+    "60EA205DE257D9D2F4169206A1AD45EA2DDD41AC" : "ORB_SLAM2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ORB_SLAM2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "build\/ORB_SLAM2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raulmur\/ORB_SLAM2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60EA205DE257D9D2F4169206A1AD45EA2DDD41AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zittix\/iPTAM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C2A62821C68BC3F8EA42E3F17DCE0992151FBB6"
+    }
+  ]
+}
