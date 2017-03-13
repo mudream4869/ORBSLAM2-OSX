@@ -3,7 +3,7 @@
 安装opencv以及eigen依赖后，直接打开xcodeproject运行即可。
 （其余依赖包含在代码中，不需要dataset, 但是需要修改include以及link path）
 
-运行视频： http://7xnvhc.com1.z0.glb.clouddn.com/orbslammac1.m4v
+运行视频： http://meiroo.github.io/img/orbslammac1.m4v
 
 对应ORBSLAM2技术文章和代码分析：http://zhuanlan.zhihu.com/computercoil/20589372
 
