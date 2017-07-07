@@ -1,4 +1,4 @@
-## forked from https://github.com/raulmur/ORB_SLAM2
+## forked from https://github.com/meiroo/ORBSLAM2-OSX
 
 安装opencv以及eigen依赖后，直接打开xcodeproject运行即可。
 （其余依赖包含在代码中，不需要dataset, 但是需要修改include以及link path）
@@ -7,16 +7,14 @@
 
 对应ORBSLAM2技术文章和代码分析：http://zhuanlan.zhihu.com/computercoil/20589372
 
-
-####  依赖: 
+#### 依赖: 
 
 基于OSX 10.11 opencv 3.1.0 Eigen3,也可以使用其他版本
 
 可以使用 "brew install opencv3"  "brew install eigen" 安装opencv3 和 eigen，
 其他依赖（g2o dbow2）已经包含在代码中
 
-
-####修改
+#### 修改
 * 去掉了Pangolin.
 * 去掉了cmake, 直接打开 ORB_SLAM2.xcodeproj 编译运行即可.
 * 去掉了MapDrawer FrameDrawer.
@@ -30,8 +28,7 @@ OSX 10.11 opencv 3.1.0 Eigen3
 
 Can be installed with "brew install opencv3"  "brew install eigen"
 
-
-####changes
+#### changes
 * Pangolin removed.
 * cmake system removed, open ORB_SLAM2.xcodeproj and build system with dependencies.
 * MapDrawer FrameDrawer removed.
